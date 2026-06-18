@@ -1,10 +1,10 @@
 ---
-version: 25.0.1-6
+version: 25.0.1-7
 pkgbase:
   name: xlibre-input-elographics
   pkgdesc: XLibre fork of X.Org Elographics TouchScreen input driver
   pkgver: 25.0.1
-  pkgrel: 6
+  pkgrel: 7
   url: https://github.com/X11Libre/xf86-input-elographics
   arch:
     - x86_64
@@ -30,4 +30,4 @@ pkgbase:
     - 0c2a82881199a08ec6236e1338f7699ea42d82cad2fafc99e9869644e8240e9b
 pkgname:
   - name: xlibre-input-elographics
-# generated with artixpkg 0.37.4-1-any
+# generated with artixpkg 0.38.5-1-any
